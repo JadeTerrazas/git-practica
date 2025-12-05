@@ -1,4 +1,9 @@
-Holaaa 
+Hola 
 Jade Terrazas desde la rama Jade
+
 Hola conflicto
+
 Esperando conflicto
+
+Creando un conflicto
+
